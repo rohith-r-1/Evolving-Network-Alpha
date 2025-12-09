@@ -177,4 +177,5 @@ While the GNN hypothesis was falsified in this specific setup, there are several
 ## Author and License
 
 - Author: Rohith R
+- License: MIT
 
