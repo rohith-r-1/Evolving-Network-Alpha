@@ -1,0 +1,12 @@
+pandas
+numpy
+networkx
+scikit-learn
+torch
+torch-geometric
+deap
+matplotlib
+seaborn
+flask
+yfinance
+arch
