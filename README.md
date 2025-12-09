@@ -51,7 +51,7 @@ The project was rebuilt via a deliberate "Hard Reset" to enforce strict scientif
 ## Repository Structure
 
 The codebase is separated into a **Research Pipeline** (training/validation) and a lightweight **Inference API** (deployment of results).
-
+```
 Evolving-Network-Alpha/
 │
 ├── app/ # Deployment / Inference code
@@ -75,7 +75,7 @@ Evolving-Network-Alpha/
 │
 └── notebooks/
 └── analysis.ipynb # Statistical validation and robustness checks
-
+```
 
 ---
 
